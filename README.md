@@ -5,7 +5,7 @@
 - SVG loader animation
 - Responsive Layout design
 - Fetching Data - Unsplash API 
-    - NOTE: Unsplash API Demo has request limit! This may cause inconsistencies with image loading.
+    - NOTE: Unsplash API Demo has request limit!
 - Displaying Data with JS
     - Arrays
     - ForEach method
