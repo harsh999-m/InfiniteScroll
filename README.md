@@ -1,5 +1,5 @@
 # ztm-infinity-scroll
-[Infinity Scroll with JavaScript](https://academy.zerotomastery.io/p/javascript-projects)
+[Live]( https://harsh999-m.github.io/InfiniteScroll/)
 
 ## Project Features:
 - SVG loader animation
